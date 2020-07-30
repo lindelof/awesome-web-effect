@@ -9,7 +9,11 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 ![img](https://github.com/lindelof/awesome-web-effect/blob/master/banner.jpg?raw=true)
 
 
-### Page widget
+### Background Decoration
 
+- [particles-bg](https://github.com/lindelof/particles-bg) - React component for particles backgrounds
+- [particles-bg-vue](https://github.com/lindelof/particles-bg-vue) - A vue.js particles animation background component. Use it to make your website look cool.
+
+### Mouse Effect
 - [power-mode-input](https://github.com/lindelof/power-mode-input) - PowerModeInput can make your text input box more compelling
 - [mouse-particles](https://github.com/lindelof/react-mouse-particles) - AboutA mouse particle effect react component
