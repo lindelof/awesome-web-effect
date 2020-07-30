@@ -6,10 +6,7 @@ It's like decorating a beautiful Christmas tree in a room. Sometimes a small web
 
 Not limited to any framework (react, vue, angular, etc.), as long as the effect can be simply inserted into the page, you can send it to me, I like them and hope you like them too.
 
-  __   _  _  ____  ____   __   _  _  ____      _  _  ____  ____      ____  ____  ____  ____  ___  ____ 
- / _\ / )( \(  __)/ ___) /  \ ( \/ )(  __)___ / )( \(  __)(  _ \ ___(  __)(  __)(  __)(  __)/ __)(_  _)
-/    \\ /\ / ) _) \___ \(  O )/ \/ \ ) _)(___)\ /\ / ) _)  ) _ ((___)) _)  ) _)  ) _)  ) _)( (__   )(  
-\_/\_/(_/\_)(____)(____/ \__/ \_)(_/(____)    (_/\_)(____)(____/    (____)(__)  (__)  (____)\___) (__) 
+![img](https://github.com/lindelof/awesome-web-effect/blob/master/banner.jpg?raw=true)
 
 
 ### Page widget
