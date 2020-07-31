@@ -22,6 +22,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) - A simple jQuery plugin to extract the dominant color of an image and apply it to the background of its parent element.
 - [fixed-background-effect](https://github.com/CodyHouse/fixed-background-effect) - A simple template that takes advantage of the background-attachment CSS property to create a fixed background effect.
 - [jquery-warpdrive-plugin](https://github.com/NiklasKnaack/jquery-warpdrive-plugin) - Warp drive is a lightweight jQuery plugin that helps you create a cool, interactive, configurable, HTML5 canvas based warp drive/starfield effect.
+- [RainEffect](https://github.com/codrops/RainEffect) - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
 
 
 ### Mouse Effect
@@ -92,6 +93,15 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [image-mask-effect](https://github.com/CodyHouse/image-mask-effect) - An immersive transition effect powered by image masks and CSS transforms.
 - [PageRevealEffects](https://github.com/codrops/PageRevealEffects) - Some ideas for modern multi-layer page transitions using CSS Animations.
 
+### Rain & Snow
+- [aframe-rain](https://github.com/takahirox/aframe-rain) - aframe-rain is Rainfall effect component for A-Frame which displays a lot of rain drop/splash objects by using instancing technique with good performance.
+- [matrix-rain](https://github.com/nojvek/matrix-rain) - The famous Matrix rain effect of falling green characters in a terminal
+- [Rainbow](https://github.com/DavianWolf/Rainbow.js) - A text effect jquery plugin (tested with jQuery 1.6.3)
+- [Snowstorm](https://github.com/scottschiller/Snowstorm) - Enterprise-grade JavaScript snow effect for the internets, setting CPUs on fire worldwide every winter since 2003.
+- [snowstorm](https://github.com/burakcan/react-snowstorm) - A Snow Effect component for React. Uses Snowstorm under the hood.
+- [react-snow-effect](https://github.com/jungledre/react-snow-effect) - react-snow-effect.
+- [snowy](https://github.com/fforw/snowy) - A HTML5 snow effect with random generated snow flakes.
+- [the-matrix-effect](https://github.com/JefersonLucas/the-matrix-effect) - The incredible effect of rain of letters in the style of the Matrix trilogy.
 
 ### Other Effect
 - [lottie-sample](https://github.com/codeaholicguy/lottie-sample) - Demo after effect animation on web using Lottie
@@ -101,6 +111,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [pickout](https://github.com/ktquez/pickout) - Cool and powerful effect to select fields. Javascript vanilla and ~2kb gzipped
 - [dissolve-generator](https://github.com/transitive-bullshit/dissolve-generator) - Cool 2D dissolve effect generator
 - [redux-reducer-side-effects](https://github.com/danrigsby/redux-reducer-side-effects) - Easy to follow side effect library for redux reducers
+- [starry.night](https://github.com/atesgoral/put.io.starry.night) - The Starry Night animation in put.io's hero banner
 
 
 ## Contribute
