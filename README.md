@@ -137,12 +137,14 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [starry.night](https://github.com/atesgoral/put.io.starry.night) - The Starry Night animation in put.io's hero banner
 - [bad-tv-shader](https://github.com/felixturner/bad-tv-shader) - Simulates a bad TV via horizontal distortion and vertical roll.
 - [map-effects-100](https://github.com/muxlab/map-effects-100) - Cool tips to design UI/UX on Leaflet maps.
-- [map-effects-100](https://github.com/muxlab/map-effects-100) - Cool tips to design UI/UX on Leaflet maps.
+- [svg-Circus](https://github.com/alexk111/SVG-Circus) - Create cool animated SVG spinners, loaders and other looped animations in seconds.
 - [jsfx](https://github.com/loov/jsfx) - This is a JavaScript library for sound effect generation and is supported on most current browsers.
 - [aquarelle](https://github.com/Ramotion/aquarelle) - Aquarelle is a watercolor effect component.
 - [glitch](https://github.com/sjhewitt/glitch.js) - A glitched effect for DOM elements.
 - [spread](https://github.com/roboshoes/spread) - Spread is a small experiment leveraging simple CSS3D transforms to create a colored plane.
 - [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
+- [EyeCandy](https://github.com/mykle1/MMM-EyeCandy) - Animated images that are superficially attractive and entertaining but intellectually undemanding.
+- [animatelo](https://github.com/gibbok/animatelo) - Animatelo is a bunch of cool, fun, and cross-browser animations for you to use in your projects
 
 
 ## Contribute
