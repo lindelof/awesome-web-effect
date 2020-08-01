@@ -37,6 +37,19 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [react-tilt](https://github.com/jonathandion/react-tilt) - Parallax tilt hover effect for React JS - tilt.js
 - [hover3d](https://github.com/ariona/hover3d) - Simple jQuery plugin for 3d Hover effect
 
+### Css 3D Effect
+- [quintessential-css-cube](https://github.com/zachstronaut/quintessential-css-cube) - The Quintessential Responsive 3D CSS Cube
+- [Tarjetas-3D](https://github.com/falconmasters/Tarjetas-3D-con-HTML5-y-CSS3) - Código del Tutorial de Tarjetas 3D usando HTML5 y CSS3
+- [3dtransforms-3D](https://github.com/desandro/3dtransforms) - Intro to CSS 3D transforms
+- [Makisu](https://github.com/soulwire/Makisu) - An experimental CSS 3D dropdown concept, wrapped up in a jQuery plugin.
+- [cube.less](https://github.com/sparanoid/cube.less) - 3D (animated) cube using only CSS (Less), originally used by LeanCloud
+- [super-mario](https://github.com/Cordobo/pure-css-super-mario) - Pure CSS animated 3D Super Mario Icon
+- [CSS3D.js](https://github.com/unconed/CSS3D.js) - This experimental renderer was built for the design of Acko.net. It lets you manage simple CSS 3D objects using Three.js.
+- [Solar-System](https://github.com/juliangarnier/3D-CSS-Solar-System) - Solar System data visualisation done in HTML/CSS and a bit of Javascript.
+- [css-space-shooter](https://github.com/michaelbromley/css-space-shooter) - An old-school arcade-style 3D shoot-em-up rendered entirely with CSS 3D transforms
+- [photon](https://github.com/thomasxiii/photon) - CSS 3D Lighting Engine photon.attasi.com
+- [gl-css3d](https://github.com/deathcap/gl-css3d) - Synchronize CSS 3D transformations to a WebGL scene
+
 ### Image Effect
 - [imagehover](https://github.com/ciar4n/imagehover.css) - Pure CSS Image Hover Effect Library
 - [ImageTiltEffect](https://github.com/codrops/ImageTiltEffect) - A subtle tilt effect for images. The idea is to move and rotate semi-transparent copies with the same background
@@ -92,6 +105,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [GlitchSlideshow](https://github.com/codrops/GlitchSlideshow) - A slideshow that uses a CSS glitch effect for slide transitions.
 - [image-mask-effect](https://github.com/CodyHouse/image-mask-effect) - An immersive transition effect powered by image masks and CSS transforms.
 - [PageRevealEffects](https://github.com/codrops/PageRevealEffects) - Some ideas for modern multi-layer page transitions using CSS Animations.
+- [ngView-animation-effects](https://github.com/dfsq/ngView-animation-effects) - Demonstration of different animation effects with AngularJS ngView directive.
 
 ### Rain & Snow
 - [aframe-rain](https://github.com/takahirox/aframe-rain) - aframe-rain is Rainfall effect component for A-Frame which displays a lot of rain drop/splash objects by using instancing technique with good performance.
@@ -102,6 +116,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [react-snow-effect](https://github.com/jungledre/react-snow-effect) - react-snow-effect.
 - [snowy](https://github.com/fforw/snowy) - A HTML5 snow effect with random generated snow flakes.
 - [the-matrix-effect](https://github.com/JefersonLucas/the-matrix-effect) - The incredible effect of rain of letters in the style of the Matrix trilogy.
+- [smoke.js](https://github.com/bijection/smoke.js) - Small but good javascript smoke effect
 
 ### Other Effect
 - [lottie-sample](https://github.com/codeaholicguy/lottie-sample) - Demo after effect animation on web using Lottie
@@ -112,6 +127,14 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [dissolve-generator](https://github.com/transitive-bullshit/dissolve-generator) - Cool 2D dissolve effect generator
 - [redux-reducer-side-effects](https://github.com/danrigsby/redux-reducer-side-effects) - Easy to follow side effect library for redux reducers
 - [starry.night](https://github.com/atesgoral/put.io.starry.night) - The Starry Night animation in put.io's hero banner
+- [bad-tv-shader](https://github.com/felixturner/bad-tv-shader) - Simulates a bad TV via horizontal distortion and vertical roll.
+- [map-effects-100](https://github.com/muxlab/map-effects-100) - Cool tips to design UI/UX on Leaflet maps.
+- [map-effects-100](https://github.com/muxlab/map-effects-100) - Cool tips to design UI/UX on Leaflet maps.
+- [jsfx](https://github.com/loov/jsfx) - This is a JavaScript library for sound effect generation and is supported on most current browsers.
+- [aquarelle](https://github.com/Ramotion/aquarelle) - Aquarelle is a watercolor effect component.
+- [glitch](https://github.com/sjhewitt/glitch.js) - A glitched effect for DOM elements.
+- [spread](https://github.com/roboshoes/spread) - Spread is a small experiment leveraging simple CSS3D transforms to create a colored plane.
+- [firealgorithm](https://github.com/filipedeschamps/doom-fire-algorithm) - A playground of experiments related to the Doom fire effect implemented in JavaScript. Feel free to submit your experiment with a Pull Request.
 
 
 ## Contribute
