@@ -82,20 +82,6 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [jquery.typer](https://github.com/yckart/jquery.typer.js) - The typewriter effect
 - [Phaser-typewriter](https://github.com/netgfx/Phaser-typewriter) - A phaser helper for the typewriter effect
 
-### Audio Effect
-- [Audio-Input-Effects](https://github.com/cwilso/Audio-Input-Effects) - Live Audio Input effects
-- [beez](https://github.com/gre/beez) - 100% web real-time audio experiment using smartphones as effect controller. (tech: Android Chrome + WebRTC + Web Audio API)
-- [soundbank](https://github.com/mmckegg/soundbank-reverb) - Simple Web Audio API based reverb effect.
-- [SoundEffectManager](https://github.com/HenrikJoreteg/SoundEffectManager) - A simple sound effect manager for playing sounds using the awesome HTML 5 Web Audio API
-- [soma-fm-player](https://github.com/rainner/soma-fm-player) - SomaFM Music Player Web-App
-
-### WebCam Effect
-- [canvas-video-effects](https://github.com/conorbuck/canvas-video-effects) - Live Image Processing w/ getUserMedia() & Web Workers
-- [chroma-cam](https://github.com/rprieto/chroma-cam) - Green screen effect in your webcam
-- [webcam-effects](https://github.com/adamlamoglia/webcam-effects) - Webcam Effects in Three.js
-- [JS---Webcam-effects](https://github.com/Gixxern/JS---Webcam-effects) - Webcam effects
-- [expo-chroma-key-camera](https://github.com/EvanBacon/expo-chroma-key-camera) - Live green-screen effect with Expo and THREE.js
-
 ### Transition Effect
 - [transitions](https://github.com/2youyou2/transitions) - Transition effect for Cocos Creator
 - [ModalWindowEffects](https://github.com/codrops/ModalWindowEffects) - A set of experimental modal window appearance effects with CSS transitions and animations.
@@ -117,6 +103,28 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [snowy](https://github.com/fforw/snowy) - A HTML5 snow effect with random generated snow flakes.
 - [the-matrix-effect](https://github.com/JefersonLucas/the-matrix-effect) - The incredible effect of rain of letters in the style of the Matrix trilogy.
 - [smoke.js](https://github.com/bijection/smoke.js) - Small but good javascript smoke effect
+
+### Button Effect
+- [ElasticProgress](https://github.com/codrops/ElasticProgress) - Creates a button that turns into a progress bar with a elastic effect. Based on the Dribbble shot
+- [vue-particle-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons) - A bursting particles effects buttons component
+- [nativescript-shine-button](https://github.com/hamdiwanis/nativescript-shine-button) - NativeScript plugin that add shine effect to your button.
+- [react-parallax-button](https://github.com/venits/react-parallax-button) - Bring your react buttons to next level with parallax effect.
+- [RippleButton](https://github.com/mig82/RippleButton) - A Kony Visualizer reusable component of a button with a Material Theme ripple effect.
+- [css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation.
+
+### Audio Effect
+- [Audio-Input-Effects](https://github.com/cwilso/Audio-Input-Effects) - Live Audio Input effects
+- [beez](https://github.com/gre/beez) - 100% web real-time audio experiment using smartphones as effect controller. (tech: Android Chrome + WebRTC + Web Audio API)
+- [soundbank](https://github.com/mmckegg/soundbank-reverb) - Simple Web Audio API based reverb effect.
+- [SoundEffectManager](https://github.com/HenrikJoreteg/SoundEffectManager) - A simple sound effect manager for playing sounds using the awesome HTML 5 Web Audio API
+- [soma-fm-player](https://github.com/rainner/soma-fm-player) - SomaFM Music Player Web-App
+
+### WebCam Effect
+- [canvas-video-effects](https://github.com/conorbuck/canvas-video-effects) - Live Image Processing w/ getUserMedia() & Web Workers
+- [chroma-cam](https://github.com/rprieto/chroma-cam) - Green screen effect in your webcam
+- [webcam-effects](https://github.com/adamlamoglia/webcam-effects) - Webcam Effects in Three.js
+- [JS-Webcam-effects](https://github.com/Gixxern/JS---Webcam-effects) - Webcam effects
+- [expo-chroma-key-camera](https://github.com/EvanBacon/expo-chroma-key-camera) - Live green-screen effect with Expo and THREE.js
 
 ### Other Effect
 - [lottie-sample](https://github.com/codeaholicguy/lottie-sample) - Demo after effect animation on web using Lottie
