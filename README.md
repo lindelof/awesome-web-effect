@@ -91,6 +91,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [image-mask-effect](https://github.com/CodyHouse/image-mask-effect) - An immersive transition effect powered by image masks and CSS transforms.
 - [PageRevealEffects](https://github.com/codrops/PageRevealEffects) - Some ideas for modern multi-layer page transitions using CSS Animations.
 - [ngView-animation-effects](https://github.com/dfsq/ngView-animation-effects) - Demonstration of different animation effects with AngularJS ngView directive.
+- [WobblySlideshowEffect](https://github.com/codrops/WobblySlideshowEffect) - The slides in this slideshow wobble as they move. The effect is based on Sergey Valiukh's Dribbble shot and was made using Snap.svg and morphing SVG paths.
 
 ### Rain & Snow
 - [RainEffect](https://github.com/codrops/RainEffect) - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
@@ -105,12 +106,14 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [smoke.js](https://github.com/bijection/smoke.js) - Small but good javascript smoke effect
 
 ### Button Effect
+- [MagneticButtons](https://github.com/codrops/MagneticButtons) - A set of buttons with a magnetic interaction and a hover effect.
 - [ElasticProgress](https://github.com/codrops/ElasticProgress) - Creates a button that turns into a progress bar with a elastic effect. Based on the Dribbble shot
 - [vue-particle-buttons](https://github.com/dreambo8563/vue-particle-effect-buttons) - A bursting particles effects buttons component
 - [nativescript-shine-button](https://github.com/hamdiwanis/nativescript-shine-button) - NativeScript plugin that add shine effect to your button.
 - [react-parallax-button](https://github.com/venits/react-parallax-button) - Bring your react buttons to next level with parallax effect.
 - [RippleButton](https://github.com/mig82/RippleButton) - A Kony Visualizer reusable component of a button with a Material Theme ripple effect.
 - [css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation.
+- [ParticleEffectsButtons](https://github.com/codrops/ParticleEffectsButtons) - A little library that can be used for bursting particles effects on buttons and other elements
 
 ### Loading Effect
 - [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
@@ -135,6 +138,18 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [webcam-effects](https://github.com/adamlamoglia/webcam-effects) - Webcam Effects in Three.js
 - [JS-Webcam-effects](https://github.com/Gixxern/JS---Webcam-effects) - Webcam effects
 - [expo-chroma-key-camera](https://github.com/EvanBacon/expo-chroma-key-camera) - Live green-screen effect with Expo and THREE.js
+
+### SVG Animations
+- [bounty](https://github.com/coderitual/bounty) - Javascript and SVG odometer effect library with motion blur
+- [DistortedLinkEffects](https://github.com/codrops/DistortedLinkEffects) - Some ideas for decorative link distortion effects using SVG filters
+- [menu-animations](https://github.com/tamino-martinius/ui-snippets-menu-animations) - Four different menu animations for menu button toggle between hamburger, cross and back icon.
+- [circle-svg-animation](https://github.com/crealime/circle-svg-animation) - Circle SVG Animation
+- [OrganicShapeAnimations](https://github.com/codrops/OrganicShapeAnimations) - Some shape morphing hover effects on images using SVG clipPath.
+- [FancyLetterAnimation](https://github.com/codrops/FancyLetterAnimation) - An experimental SVG letter animation inspired by the Dribbble shot "Shading Letters in Illustrator" by Jake Bartlett's. Powered by Julian Garnier's anime.js.
+- [IsometricCityAnimation](https://github.com/projapati66/Svg-IsometricCityAnimation) - This is a simple svg isometric city animation with GSAP
+- [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) - Lazy Line Painter - A Modern JS library for SVG path animation
+- [jquery-drawsvg](https://github.com/lcdsantos/jquery-drawsvg) - Lightweight, simple to use jQuery plugin to animate SVG paths
+- [svg-animation](https://github.com/hellomichael/svg-animation) - The Illusion of Life: An SVG Animation Case Study
 
 ### Other Effect
 - [lottie-sample](https://github.com/codeaholicguy/lottie-sample) - Demo after effect animation on web using Lottie
