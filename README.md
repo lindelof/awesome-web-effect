@@ -22,7 +22,6 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) - A simple jQuery plugin to extract the dominant color of an image and apply it to the background of its parent element.
 - [fixed-background-effect](https://github.com/CodyHouse/fixed-background-effect) - A simple template that takes advantage of the background-attachment CSS property to create a fixed background effect.
 - [jquery-warpdrive-plugin](https://github.com/NiklasKnaack/jquery-warpdrive-plugin) - Warp drive is a lightweight jQuery plugin that helps you create a cool, interactive, configurable, HTML5 canvas based warp drive/starfield effect.
-- [RainEffect](https://github.com/codrops/RainEffect) - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
 
 
 ### Mouse Effect
@@ -94,6 +93,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [ngView-animation-effects](https://github.com/dfsq/ngView-animation-effects) - Demonstration of different animation effects with AngularJS ngView directive.
 
 ### Rain & Snow
+- [RainEffect](https://github.com/codrops/RainEffect) - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
 - [aframe-rain](https://github.com/takahirox/aframe-rain) - aframe-rain is Rainfall effect component for A-Frame which displays a lot of rain drop/splash objects by using instancing technique with good performance.
 - [matrix-rain](https://github.com/nojvek/matrix-rain) - The famous Matrix rain effect of falling green characters in a terminal
 - [Rainbow](https://github.com/DavianWolf/Rainbow.js) - A text effect jquery plugin (tested with jQuery 1.6.3)
@@ -111,6 +111,16 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [react-parallax-button](https://github.com/venits/react-parallax-button) - Bring your react buttons to next level with parallax effect.
 - [RippleButton](https://github.com/mig82/RippleButton) - A Kony Visualizer reusable component of a button with a Material Theme ripple effect.
 - [css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation.
+
+### Loading Effect
+- [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
+- [Asset-Loading-Effects](https://github.com/ZachSaucier/Asset-Loading-Effects) - Loading effects for assets including some built in animated reveals
+- [fakeLoader](https://github.com/joaopereirawd/fakeLoader.js) - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect.
+- [LoadEffect](https://github.com/Auklets/LoadEffect) - Distributed Load Testing in Javascript-like Scripting Language.
+- [Whirl](https://github.com/jh3y/whirl) - CSS loading animations with minimal effort!
+- [three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made by single element.
+- [ArtWorx-xLoader](https://github.com/AnasTawfeek/ArtWorx-xLoader) - Pure css cross-browser loading animations.
+- [css-page-loader](https://github.com/Viglino/css-page-loader) - Lightweight CSS loading animations to use when page loads
 
 ### Audio Effect
 - [Audio-Input-Effects](https://github.com/cwilso/Audio-Input-Effects) - Live Audio Input effects
