@@ -138,6 +138,9 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [webcam-effects](https://github.com/adamlamoglia/webcam-effects) - Webcam Effects in Three.js
 - [JS-Webcam-effects](https://github.com/Gixxern/JS---Webcam-effects) - Webcam effects
 - [expo-chroma-key-camera](https://github.com/EvanBacon/expo-chroma-key-camera) - Live green-screen effect with Expo and THREE.js
+- [chroma-key-camera](https://github.com/EvanBacon/expo-chroma-key-camera) - Live green-screen effect with Expo and THREE.js
+- [hypersampler](https://github.com/positlabs/spark-hypersampler) - Hyhypeperersamamplplerer: a Spark AR camera effec
+- [ChuckClose-SparkAR](https://github.com/kamend/ChuckClose-SparkAR) - A simple example how to use Visual Shaders with JS in Spark AR.
 
 ### SVG Animations
 - [bounty](https://github.com/coderitual/bounty) - Javascript and SVG odometer effect library with motion blur
@@ -150,6 +153,14 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 - [lazy-line-painter](https://github.com/camoconnell/lazy-line-painter) - Lazy Line Painter - A Modern JS library for SVG path animation
 - [jquery-drawsvg](https://github.com/lcdsantos/jquery-drawsvg) - Lightweight, simple to use jQuery plugin to animate SVG paths
 - [svg-animation](https://github.com/hellomichael/svg-animation) - The Illusion of Life: An SVG Animation Case Study
+
+### Fireworks
+- [fireworks](https://github.com/jeromeetienne/fireworks.js) - fireworks Particles engine in javascript
+- [silly fireworks](https://github.com/scottschiller/fireworks.js) - A silly JavaScript animation experiment, originally written in 2005.
+- [fireworks-webgl](https://github.com/ondras/fireworks-webgl) - WebGL + Web Audio API = Sound-driven fireworks!
+- [fireworks-vr](https://github.com/Lallassu/fireworks) - WebGL Fireworks with ThreeJS In action: https://qake.se/fw/index.html
+- [skyrocket](https://github.com/zarocknz/javascript-skyrocket) - Design and Display fireworks on HTML canvas with Skyrocket.js
+- [cool-fireworks](https://github.com/PixxxeL/js-fireworks) - a particle fireworks effect.
 
 ### Other Effect
 - [lottie-sample](https://github.com/codeaholicguy/lottie-sample) - Demo after effect animation on web using Lottie
