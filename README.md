@@ -13,6 +13,7 @@ Not limited to any framework (react, vue, angular, etc.), as long as the effect 
 
 - [particles-bg](https://github.com/lindelof/particles-bg) - React component for particles backgrounds
 - [particles-bg-vue](https://github.com/lindelof/particles-bg-vue) - A vue.js particles animation background component. Use it to make your website look cool.
+- [sparticles](https://github.com/simeydotme/sparticles) - Vanilla particles which can be used in a background or in a container, very fast and lightweight.
 - [jquery.ripples](https://github.com/sirxemic/jquery.ripples) - Add a water ripple effect to your background using WebGL.
 - [MorphingBackgroundShapes](https://github.com/codrops/MorphingBackgroundShapes) - A decorative website background effect where SVG shapes morph and transform on scroll..
 - [SegmentEffect](https://github.com/codrops/SegmentEffect) - Background image segment effect as seen on [Filippo Bello's Portfolio].
