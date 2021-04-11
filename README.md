@@ -1,5 +1,7 @@
 # awesome-web-effect
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 ## 🚀 A series of exquisite and compact web page cool effects
 
 It's like decorating a beautiful Christmas tree in a room. Sometimes a small web page with cool effects will make your project shine. This is a very fun series, I want to collect those cool effects that are common on the page.
